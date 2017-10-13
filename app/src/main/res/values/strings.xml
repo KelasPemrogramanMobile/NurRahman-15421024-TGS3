@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasTiga</string>
+
+    <string-array name="agama">
+        <item>--Pilih Agama--</item>
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Protestan</item>
+        <item>Buddha</item>
+        <item>Hindu</item>
+    </string-array>
+
+</resources>
